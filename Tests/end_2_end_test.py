@@ -12,7 +12,9 @@ from Pages.overview_page import Overview
 from Pages.your_cart_page import YourCart
 
 
-@allure.epic("Function")
+@allure.severity(Severity.NORMAL)
+@allure.epic("Sanity")
+@allure.feature("Sanity testing end to end")
 class Tests:
 
     @allure.severity(Severity.CRITICAL)

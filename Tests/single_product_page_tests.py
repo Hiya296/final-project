@@ -8,7 +8,9 @@ from Pages.all_products_page import AllProducts
 from External.data import *
 
 
+@allure.severity(Severity.CRITICAL)
 @allure.epic("Function")
+@allure.feature("Single product page testing")
 class Tests:
 
     @allure.severity(Severity.CRITICAL)

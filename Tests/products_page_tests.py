@@ -12,7 +12,7 @@ from External.data import *
 
 @allure.severity(Severity.NORMAL)
 @allure.epic("Function")
-@allure.feature("Login options")
+@allure.feature("Products page testing")
 class Tests:
 
     @allure.severity(Severity.NORMAL)

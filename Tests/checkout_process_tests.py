@@ -12,7 +12,9 @@ from Pages.overview_page import Overview
 from Pages.your_cart_page import YourCart
 
 
+@allure.severity(Severity.CRITICAL)
 @allure.epic("Function")
+@allure.feature("Checkout processes testing")
 class Tests:
 
     @allure.severity(Severity.CRITICAL)
