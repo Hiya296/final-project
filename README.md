@@ -43,8 +43,8 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ## 📊 Reports
 <p>
   <img src="https://github.com/Hiya296/final-project/blob/main/allure/Overview%20screen.png" width=40% alt="Overview Screen" title="Overview Screen">
-  <img src="https://github.com/Hiya296/final-project/blob/main/allure/Tests%20suites.png" width=40% alt="Tests Suites" title="Tests Suites">
   <img src="https://github.com/Hiya296/final-project/blob/main/allure/Status%20graph.png" width=40% alt="Status Graph" title="Status Graph">
+  <img src="https://github.com/Hiya296/final-project/blob/main/allure/Tests%20suites.png" width=40% alt="Tests Suites" title="Tests Suites">
 </p>
 For more reports go to: *https://github.com/Hiya296/final-project/tree/main/allure*
 
